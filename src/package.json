@@ -1,0 +1,11 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Person_src.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC"
+}

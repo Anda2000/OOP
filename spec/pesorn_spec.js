@@ -1,4 +1,4 @@
-let myTest = require("../src/person_src");
+let myTest = require("../src/person");
 
 let person = new myTest.Person("Ryan", 30, "male", [
   "being a hardarse",
